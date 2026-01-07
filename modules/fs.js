@@ -8,7 +8,9 @@ const path = require("path");
 //   }
 //   console.log("pasta criadas");
 // });
-
+//
+//
+//
 //criar um arquivo
 
 fs.writeFile(
